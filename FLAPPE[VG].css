@@ -1,0 +1,10 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: rgb(141, 175, 219);
+}
+
+#board {
+    /* background-color: rgb(97, 143, 173); */
+    background-image: url("./BG.jpg");
+}
